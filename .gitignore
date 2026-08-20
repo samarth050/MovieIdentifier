@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+frames/
+audio_samples/
+settings.json
+.env
+.vscode/
+*.zip
